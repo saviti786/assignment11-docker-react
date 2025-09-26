@@ -14,8 +14,8 @@ Step2: Open CMD Terminal, and run the following commands:-
        <h3> VISIT: http://127.0.0.1:7775 </h3>
 
 To Stop or Cleanup:
-        <h3> docker stop lastName_firstName_coding_assignment11 </h3>
-        <h3> docker rm lastName_firstName_coding_assignment11 </h3>
-        <h3> docker rmi lastName_firstName_coding_assignment11 </h3>
+         docker stop lastName_firstName_coding_assignment11 <br>
+         docker rm lastName_firstName_coding_assignment11 <br>
+         docker rmi lastName_firstName_coding_assignment11 
 
 
